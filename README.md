@@ -1,4 +1,6 @@
 # BaiTap1
 # demo
-. video
-. watch
+  . video  
+  . watch  
+  . movie  
+  
